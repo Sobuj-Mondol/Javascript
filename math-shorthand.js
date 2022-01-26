@@ -47,3 +47,8 @@ price -= 1;
 price--;
 console.log(price);
 
+// special adition
+var firstNumber = 0.1;
+var secondNumber = 0.3;
+var total = firstNumber + secondNumber;
+console.log(total);
