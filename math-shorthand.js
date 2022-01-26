@@ -52,3 +52,9 @@ var firstNumber = 0.1;
 var secondNumber = 0.3;
 var total = firstNumber + secondNumber;
 console.log(total);
+
+// modulus  vag sesh ber kora holo
+var mangos = 9;
+var hungryMan = 2;
+var remaining = mangos % hungryMan;
+console.log(remaining);
